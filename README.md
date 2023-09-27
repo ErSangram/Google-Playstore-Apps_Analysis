@@ -1,7 +1,9 @@
 ## Google-Playstore-Apps_Analysis
  
 
-Data Analysis on google playstore apps data. Parameters are Apps Category, Rating, Reviews, Size, Installs Type, Price, Content Rating, Genres, Last Updated, Current Ver, Android Ver.         
+Data Analysis on google playstore apps data.       
+Parameters are Apps Category, Rating, Reviews, Size, Installs Type, Price, Content Rating, Genres, Last Updated, Current Ver, Android Ver.  
+
 #### Practice for python, pandas, visualization, EDA.
 
 ### Results :
