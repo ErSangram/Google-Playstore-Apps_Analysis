@@ -4,7 +4,7 @@
 Data Analysis on google playstore apps data.       
 Parameters are Apps Category, Rating, Reviews, Size, Installs Type, Price, Content Rating, Genres, Last Updated, Current Ver, Android Ver.  
 
-#### Practice for python, pandas, visualization, EDA.
+#### Practice on tools python, pandas, visualization, EDA.  
 
 ### Results :
    - Maximum used Categories of Apps : Family-1972, Games-1144 and Tools-843.
