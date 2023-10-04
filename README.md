@@ -6,7 +6,7 @@ Parameters are Apps Category, Rating, Reviews, Size, Installs Type, Price, Conte
 
 #### Practice on tools python, pandas, visualization, EDA.  
 
-### Results :
+**Results :**
    - Maximum used Categories of Apps : Family-1972, Games-1144 and Tools-843.
    - Top 5 Categories having max Ratings : Events, Education, Art and Design, Books and Reference, Personalization.
    - Top 5 Categories having max Pricing : Finance, Family, Lifestyle, Medical, Games.
